@@ -1,0 +1,11 @@
+<? Php
+      
+ $nim="1234";
+ $nama="rifal";
+ $kelas="12.2A.13";
+
+
+ echo"NIM saya adalah =$nim<br>";
+ echo"kelas saya adalah=$kelas";
+
+? >
